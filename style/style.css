@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
 
 body {
-	background-image: url("../images/board.jpg");
+	background-color: black;
 	color: lightgrey;
 	font-size: 28px;
 	font-family: 'Inconsolata', monospace;
@@ -36,7 +36,6 @@ body {
 }
 img {
 	width: 100%;
-	border: 2px solid;
 }
 
 .letter {
